@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout_main"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout_home_main"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/home_main_height"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/home_main_left_and_right_margin"
+        android:layout_marginRight="@dimen/home_main_left_and_right_margin"
+        android:background="@drawable/home_main_background"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/home_main_left_and_right_padding"
+        android:paddingRight="@dimen/home_main_left_and_right_padding" >
+
+        <ImageView
+            android:layout_width="@dimen/home_main_icon_width"
+            android:layout_height="@dimen/home_main_icon_width"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon" />
+
+        <SeekBar
+            android:id="@+id/seekbar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/home_main_seek_bar_left_margin"
+            android:layout_marginRight="@dimen/home_main_seek_bar_right_margin"
+            android:layout_weight="1.0"
+            android:maxHeight="1.0dip"
+            android:minHeight="1.0dip"
+            android:progressDrawable="@drawable/seekbar_bg" />
+
+        <ImageView
+            android:id="@+id/imageView_more"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="@dimen/home_main_close_left_margin"
+            android:scaleType="fitCenter"
+            android:src="@drawable/btn_more_bg_selector" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/helpForCloseView_top"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/linearLayout_home_main" />
+
+    <View
+        android:id="@+id/helpForCloseView_left"
+        android:layout_width="@dimen/home_main_left_and_right_margin"
+        android:layout_height="@dimen/home_main_height"
+        android:layout_centerVertical="true" />
+
+    <View
+        android:id="@+id/helpForCloseView_right"
+        android:layout_width="@dimen/home_main_left_and_right_margin"
+        android:layout_height="@dimen/home_main_height"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true" />
+
+    <View
+        android:id="@+id/helpForCloseView_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/linearLayout_home_main" />
+
+</RelativeLayout>

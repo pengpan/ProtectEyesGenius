@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="274dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/setting_background"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout_boot_completed_start"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/setting_item_height"
+            android:background="@drawable/setting_item_bg_selector"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/setting_left_and_right_padding"
+            android:paddingRight="@dimen/setting_left_and_right_padding" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:gravity="left"
+                android:text="定时护眼"
+                android:textColor="@color/setting_item_word_color"
+                android:textSize="@dimen/setting_item_word_size" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/eyes_popupview_icon_more" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="@dimen/setting_left_and_right_padding"
+            android:layout_marginRight="@dimen/setting_left_and_right_padding"
+            android:background="@color/setting_item_line_color" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout_check_update"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/setting_item_height"
+            android:background="@drawable/setting_item_bg_selector"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/setting_left_and_right_padding"
+            android:paddingRight="@dimen/setting_left_and_right_padding" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:gravity="left"
+                android:text="@string/check_update"
+                android:textColor="@color/setting_item_word_color"
+                android:textSize="@dimen/setting_item_word_size" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/eyes_popupview_icon_more" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="@dimen/setting_left_and_right_padding"
+            android:layout_marginRight="@dimen/setting_left_and_right_padding"
+            android:background="@color/setting_item_line_color" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout_good_way_for_protect_eyes"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/setting_item_height"
+            android:background="@drawable/setting_item_bg_selector"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/setting_left_and_right_padding"
+            android:paddingRight="@dimen/setting_left_and_right_padding" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:gravity="left"
+                android:text="评分"
+                android:textColor="@color/setting_item_word_color"
+                android:textSize="@dimen/setting_item_word_size" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/eyes_popupview_icon_more" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="@dimen/setting_left_and_right_padding"
+            android:layout_marginRight="@dimen/setting_left_and_right_padding"
+            android:background="@color/setting_item_line_color" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout_about"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/setting_item_height"
+            android:background="@drawable/setting_item_bg_selector"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/setting_left_and_right_padding"
+            android:paddingRight="@dimen/setting_left_and_right_padding" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:gravity="left"
+                android:text="关于"
+                android:textColor="@color/setting_item_word_color"
+                android:textSize="@dimen/setting_item_word_size" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/eyes_popupview_icon_more" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="@dimen/setting_left_and_right_padding"
+            android:layout_marginRight="@dimen/setting_left_and_right_padding"
+            android:background="@color/setting_item_line_color" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout_exit"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/setting_item_height"
+            android:background="@drawable/setting_item_bg_selector"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/setting_left_and_right_padding"
+            android:paddingRight="@dimen/setting_left_and_right_padding" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:gravity="left"
+                android:text="@string/completely_exit"
+                android:textColor="@color/setting_item_word_color"
+                android:textSize="@dimen/setting_item_word_size" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/eyes_popupview_icon_more" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

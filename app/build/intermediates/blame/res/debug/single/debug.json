@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_account_ic_new.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/account_ic_new.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_schedule_icon_normal.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_schedule_icon_normal.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_exit_bg_selector.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/exit_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_btn_more_bg_selector.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/btn_more_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_notification_btn_set_selector.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/notification_btn_set_selector.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_icon_close_press.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_icon_close_press.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_qq_nubber.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/qq_nubber.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_btn_close_bg_selector.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/btn_close_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_icon_close_normal.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_icon_close_normal.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_icon_more_press.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_icon_more_press.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_seekbar_bg.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/seekbar_bg.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_login_collection_common_btn_selector.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/login_collection_common_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_popupview_icon_more.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_popupview_icon_more.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/layout_setting_notification_layout.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/layout/setting_notification_layout.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_notif.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/icon_notif.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_setting_background.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/setting_background.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_setting_item_bg_selector.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/setting_item_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_schedule_icon_press.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_schedule_icon_press.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_popupview_checkbox_select.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_popupview_checkbox_select.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_thumb_bar_selector.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/thumb_bar_selector.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_icon_set_normal.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_icon_set_normal.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_icon_more_normal.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_icon_more_normal.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_icon_set_press.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_icon_set_press.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/layout_about.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_notif.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xxhdpi/icon_notif.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_popupview_icon_back.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_popupview_icon_back.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_v_new.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-hdpi/icon_v_new.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_dialog_bg.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_popupview_checkbox_normal.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_popupview_checkbox_normal.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_notif.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-hdpi/icon_notif.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_home_main_background_status.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/home_main_background_status.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_remind_icon_close_normal.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_remind_icon_close_normal.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/layout_timer.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/layout/timer.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_home_main_background.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/home_main_background.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable_setting_background_status.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable/setting_background_status.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-hdpi_login_collection_common_btn_normal.9.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-hdpi/login_collection_common_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_author.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/author.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes_remind_icon_close_press.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-xhdpi/eyes_remind_icon_close_press.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/layout_float_layout.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/layout/float_layout.xml"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/drawable-hdpi_login_collection_common_btn_press.9.png.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/drawable-hdpi/login_collection_common_btn_press.9.png"
+    },
+    {
+        "merged": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/build/intermediates/res/merged/debug/layout_setting.xml.flat",
+        "source": "/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/res/layout/setting.xml"
+    }
+]

@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pengpan.protecteyes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:7:5-9:41
+8        android:minSdkVersion="14"
+8-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:8:9-35
+9        android:targetSdkVersion="18" />
+9-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:9:9-38
+10
+11    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+11-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:11:5-88
+11-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:11:22-85
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:12:5-78
+12-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:12:22-75
+13
+14    <application
+14-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:14:5-31:19
+15        android:debuggable="true"
+16        android:icon="@drawable/icon"
+16-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:15:9-38
+17        android:theme="@style/AppTheme" >
+17-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:16:9-40
+18        <activity
+18-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:17:9-27:20
+19            android:name="com.pengpan.protecteyes.MainActivity"
+19-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:18:13-64
+20            android:label="@string/app_name"
+20-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:19:13-45
+21            android:screenOrientation="portrait"
+21-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:20:13-49
+22            android:theme="@style/transparent" >
+22-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:21:13-47
+23            <intent-filter>
+23-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:22:13-26:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:23:17-69
+24-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:23:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:25:17-77
+26-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:25:27-74
+27            </intent-filter>
+28        </activity>
+29
+30        <service android:name="com.pengpan.protecteyes.BackService" >
+30-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:29:9-30:19
+30-->/Users/pengpan/AndroidStudioProjects/ProtectEyesGenius1/app/src/main/AndroidManifest.xml:29:18-68
+31        </service>
+32    </application>
+33
+34</manifest>
