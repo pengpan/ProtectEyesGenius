@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="activity_horizontal_margin">16.0dip</dimen>
-    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="toast_y_offset">64.0dip</dimen>
     <dimen name="home_main_left_and_right_margin">16.0dip</dimen>
     <dimen name="home_main_height">105.0dip</dimen>
     <dimen name="home_main_left_and_right_padding">16.0dip</dimen>
-    <dimen name="home_main_icon_width">54.0dip</dimen>
-    <dimen name="home_main_seek_bar_left_margin">10.0dip</dimen>
-    <dimen name="home_main_seek_bar_right_margin">10.0dip</dimen>
-    <dimen name="home_main_close_left_margin">10dp</dimen>
+    <dimen name="home_main_icon_width">36.0dip</dimen>
+    <dimen name="home_main_seek_bar_left_margin">5.0dip</dimen>
+    <dimen name="home_main_seek_bar_right_margin">5.0dip</dimen>
+    <dimen name="home_main_close_left_margin">14.5dip</dimen>
     <dimen name="mi_ui_height">39.0dip</dimen>
     <dimen name="mi_ui_left_and_right_margin">16.0dip</dimen>
     <dimen name="mi_ui_left_and_right_padding">16.0dip</dimen>
@@ -31,8 +31,14 @@
     <dimen name="setting_notification_icon_top_margin">6.0dip</dimen>
     <dimen name="setting_notification_icon_bottom_margin">6.0dip</dimen>
     <dimen name="setting_notification_icon_right_margin">14.0dip</dimen>
-    <dimen name="setting_notification_title_word_size">16.0sp</dimen>
+    <dimen name="setting_notification_title_word_size">18.0sp</dimen>
     <dimen name="setting_notification_prompt_word_size">14.0sp</dimen>
     <dimen name="setting_notification_title_and_prompt_gap">14.0dip</dimen>
     <dimen name="setting_notification_set_icon_right_margin">25.0dip</dimen>
+
+    <!-- 应用边距尺寸 -->
+    <dimen name="big_space">20dp</dimen>
+    <dimen name="middle_space">16dp</dimen>
+    <dimen name="small_space">10dp</dimen>
+    <dimen name="tiny_space">4dp</dimen>
 </resources>

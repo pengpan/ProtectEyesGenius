@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout_main"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/transparent" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout_home_main"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_margin="@dimen/big_space"
+        android:background="@color/home_main_background_color"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="@dimen/middle_space" >
+
+        <ImageView
+            android:layout_width="@dimen/home_main_icon_width"
+            android:layout_height="@dimen/home_main_icon_width"
+            android:layout_marginRight="@dimen/small_space"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:src="@mipmap/ic_launcher" />
+
+        <LinearLayout
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/home_main_seek_bar_left_margin"
+            android:layout_weight="1.0"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/blu_ray"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+
+                <SeekBar
+                    android:id="@+id/seekbar_blue_ray"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:max="80"
+                    android:maxHeight="1.0dip"
+                    android:minHeight="1.0dip"
+                    android:progressDrawable="@drawable/seekbar_bg"
+                    android:thumb="@drawable/thumb_bar_selector" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/middle_space"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/brightness"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+
+                <SeekBar
+                    android:id="@+id/seekbar_brightness"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:max="80"
+                    android:maxHeight="1.0dip"
+                    android:minHeight="1.0dip"
+                    android:progressDrawable="@drawable/seekbar_bg"
+                    android:thumb="@drawable/thumb_bar_selector" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_time"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/middle_space"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/use_time"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+
+                <SeekBar
+                    android:id="@+id/seekbar_time"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:max="80"
+                    android:maxHeight="1.0dip"
+                    android:minHeight="1.0dip"
+                    android:progressDrawable="@drawable/seekbar_bg"
+                    android:thumb="@drawable/thumb_bar_selector" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageView_more"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@null"
+            android:src="@drawable/btn_more_bg_selector" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/helpForCloseView_top"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/linearLayout_home_main" />
+
+    <View
+        android:id="@+id/helpForCloseView_left"
+        android:layout_width="@dimen/home_main_left_and_right_margin"
+        android:layout_height="@dimen/home_main_height"
+        android:layout_centerVertical="true" />
+
+    <View
+        android:id="@+id/helpForCloseView_right"
+        android:layout_width="@dimen/home_main_left_and_right_margin"
+        android:layout_height="@dimen/home_main_height"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true" />
+
+    <View
+        android:id="@+id/helpForCloseView_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/linearLayout_home_main" />
+
+</RelativeLayout>
