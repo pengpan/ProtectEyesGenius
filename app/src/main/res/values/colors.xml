@@ -3,4 +3,26 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="black">#ff000000</color>
+    <color name="search_result_background_color">#ffe9e9e9</color>
+    <color name="update_divider_line_color">#ffbfbfbf</color>
+    <color name="message_comment_item_comment_word_color">#ff333333</color>
+    <color name="text_search">#ff000000</color>
+    <color name="home_main_background_color">#e5000000</color>
+    <color name="home_main_seekbar_background_color">#cc555555</color>
+    <color name="home_main_seekbar_progress_color">#ff92b1d1</color>
+    <color name="mi_ui_word_color">#ffffffff</color>
+    <color name="mi_ui_background_color">#d83c98c9</color>
+    <color name="setting_background_color">#ff222222</color>
+    <color name="setting_item_word_color">#ffffffff</color>
+    <color name="setting_item_line_color">#ff333333</color>
+    <color name="setting_item_line_press_background_color">#66000000</color>
+    <color name="setting_exit_button_word_color">#ffffffff</color>
+    <color name="setting_exit_button_background_color">#ff3c98c9</color>
+    <color name="setting_exit_button_press_background_color">#ff245b79</color>
+    <color name="setting_notification_title_word_color">#ffffffff</color>
+    <color name="setting_notification_prompt_word_color">#ff727272</color>
+    <color name="setting_notification_background_color">#ff1e1e1e</color>
 </resources>

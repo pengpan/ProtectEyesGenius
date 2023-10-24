@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">护眼睛灵</string>
+    <string name="app_name">护眼精灵</string>
+    <string name="make_score">评分</string>
+    <string name="start_careyes_tip">开启护眼提醒</string>
+    <string name="check_update">检查更新</string>
+    <string name="about">关于</string>
+    <string name="completely_exit">完全退出</string>
+    <string name="setting_notification_easy_eye">轻松护眼</string>
+    <string name="use_time">时间：</string>
+    <string name="brightness">亮度：</string>
+    <string name="blu_ray">蓝光：</string>
+    <string name="author">作者：tailyou</string>
+    <string name="QQ">QQ：1173752145</string>
+    <string name="email">email：tailyou0506@sina.com</string>
+    <string name="copyright">Copyright©2015 | 护眼精灵V1.0</string>
+    <string name="right">All Rights Reserved</string>
 </resources>
